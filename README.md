@@ -27,7 +27,7 @@
           9.Spelling Correction
           10. Remove stopwords
           11.Stemming the tweet data 
-# Model:          
+#### Model:          
         In this project I extracted features by using TfidfVectorizer , CountVectorizer and Word embedding 
         (glove & fasttext embedding vector).I applied various machine learning algorithimon both 
         countvectorizer and TfidfVectorizer with best model is Logistic Regression having accuracy 93% which 
